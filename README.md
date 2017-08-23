@@ -1,6 +1,10 @@
-# CharlesAngularCliProject
+# Charles' Angular-Cli Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+Charles uses this project to test his skills in Angular 4 and Angular-Cli.
+
+## To do
+Find a way to deploy this project.
 
 ## Development server
 

@@ -2,6 +2,8 @@
   "name": "charles-angular-cli-project",
   "version": "1.0.0",
   "license": "MIT",
+  "description": "Charles uses this project to test his skills in Angular 4 and Angular-Cli.",
+  "repository": "https://github.com/Sachielsc/Charles-Angular-cli-Project.git",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
